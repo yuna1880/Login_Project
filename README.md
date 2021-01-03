@@ -30,5 +30,6 @@ EMAIL VARCHAR2(50)
 );
 ```
 
-More about this project 🔽
+More about this project 🔽 Please have a look !
+---
 https://www.notion.so/Java-Login-Project-23d30d57858c426c9d585b2f089c04b3
