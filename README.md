@@ -32,6 +32,12 @@ EMAIL VARCHAR2(50)
 );
 ```
 
+### 📃 Java Class Diagram
+
+---
+
+![image description](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/7ac538ae-b00b-4ba1-be61-a0f8f5a4839e/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210116%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210116T163738Z&X-Amz-Expires=86400&X-Amz-Signature=5cca0f9780f5bca2afd86c0c78c3c6488a18fab42a636ff882856268c296118e&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22)
+
 More about this project 🔽 Please have a look !
 ---
 [👉🏻 click here 👈🏻](https://www.notion.so/Java-Login-Project-23d30d57858c426c9d585b2f089c04b3)
